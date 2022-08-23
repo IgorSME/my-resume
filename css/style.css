@@ -1,5 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    width: 1200px;
     /* background-color: #f5f7fa; */
 }
 img{
@@ -10,7 +11,7 @@ img{
 .main-section{
     display: flex;
     flex-direction: row-reverse;
-    width: 1240px;
+    width: 1200px;
     background: #fff;
     /* margin: 40px auto; */
     margin: 0 auto;
