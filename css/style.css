@@ -2,6 +2,10 @@ body {
     font-family: 'Montserrat', sans-serif;
     background-color: #f5f7fa;
 }
+img{
+    display: block;
+        margin: 0 auto;
+}
 
 .main-section{
     display: flex;
@@ -35,7 +39,7 @@ body {
 .about-me-profession {
     font-style: normal;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 22px;
     line-height: 17px;
     color: #000;
     margin-bottom: 20px;
@@ -49,7 +53,7 @@ body {
     margin-bottom: 25px;
 }
 .about-me-description{
-    width: 400px;
+    /* width: 400px; */
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
@@ -92,6 +96,10 @@ body {
     font-size: 14px;
     line-height: 24px;
     color: #000000;
+}
+.my-projects-describe{
+    margin: 0;
+
 }
 /* My work experience */
 .my-work-experience-position{
@@ -178,8 +186,10 @@ body {
 /* sidebar section */
 .sidebar-section{
     background: #1E2939;
-    width: 370px;
+    /* width: 370px; */
+    width: 460px;
     padding: 40px 0;
+    margin-right: auto;
 }
 
 
@@ -206,7 +216,7 @@ body {
 }
 
 .contacts-section-link{
-    color: #4F5865;
+    color: #fff;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
@@ -216,6 +226,7 @@ body {
 .tech-skills-section,
 .soft-skill-section{
     margin: 50px 0 0 40px;
+    padding-left: 20px;
 }
 /* tech skills section */
 .tech-skills-list{
