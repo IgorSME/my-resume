@@ -1,6 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: #f5f7fa;
+    /* background-color: #f5f7fa; */
 }
 img{
     display: block;
@@ -14,7 +14,7 @@ img{
     background: #fff;
     /* margin: 40px auto; */
     margin: 0 auto;
-    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
 }
 
 /* main-content-section */
