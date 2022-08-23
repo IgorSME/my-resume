@@ -10,7 +10,7 @@ img{
 .main-section{
     display: flex;
     flex-direction: row-reverse;
-    /* width: 1200px; */
+    width: 1240px;
     background: #fff;
     /* margin: 40px auto; */
     margin: 0 auto;
